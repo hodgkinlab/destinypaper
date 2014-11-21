@@ -2,9 +2,9 @@ This repository contains supporting code and data for manuscript [Marchingo et a
 
 It is assumed that you have read the paper, know what Cyton model is and what different parameters of the model mean. This readme file comments on the structure of the repository and helps in using the software for your data. If you have any further requests regarding the software, please contact Andrey Kan at akan (+ @ + wehi.edu.au )
 
-------------------------------------------------------------
+***
 The software is implemented in MATLAB, and in order to run it you will need MATLAB with statistics, optimization and parallel computing toolboxes. It is recommended to have at least MATLAB R2012a, the code was not tested on earlier versions. It is also recommended to run software on Windows. The code was not tested on a Mac.
-------------------------------------------------------------
+***
 
 The code in [cyton fitter 6.1.5] folder implements the Cyton model computation and an automated data fitting procedure. This code can be used in two modes. First, you can implement various data fitting scenarios using scripts (e.g., fitting different datasets using different starting parameters), and run scripts automatically. You will require MATLAB proficiency in order to use this option. Second, you can use a graphical user interface (GUI) to fit each dataset either manually or automatically.
 
