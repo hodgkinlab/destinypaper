@@ -1,6 +1,6 @@
 This repository contains supporting code and data for manuscript [Marchingo et al., Antigen affinity, costimulation, and cytokine inputs sum linearly to amplify T cell expansion, Science, 2014].
 
-It is assumed that you have read the paper, know what Cyton model is and what different parameters of the model mean. This readme file comments on the structure of the repository and helps in using the software for your data. If you have any further requests regarding the software, please contact Andrey Kan at akan (+ @ + wehi.edu.au )
+It is assumed that you have read the paper, know what Cyton model is and what different parameters of the model mean. This readme file comments on the structure of the repository and helps in using the software for your data. If you have any further requests regarding the software, please contact Andrey Kan at akan (+ @ + wehi.edu.au ).
 
 ***
 The software is implemented in MATLAB, and in order to run it you will need MATLAB with statistics, optimization and parallel computing toolboxes. It is recommended to have at least MATLAB R2012a, the code was not tested on earlier versions. It is also recommended to run software on Windows. The code was not tested on a Mac.
@@ -41,3 +41,14 @@ Use [import data] button to load the data file. You can use [load parameters] bu
 Locking means lock parameter value to a constant, and fixing means allowing the parameter to vary but ensure that all conditions/concentrations within the dataset have the same value.
 
 You can use [plot] button to plot the data, and [fit] button to automatically fit the data using current parameter values as a starting point.
+
+---------------------------------------
+CREDITS
+
+This software has been developed at the laboratory of Prof. Phil Hodgkin at the Walter and Eliza Hall Institute in collaboration with Prof. Ken Duffy of Hamilton Institute, National University of Ireland Maynooth.
+
+Matlab code was written by Cameron Wellard, Andrey Kan, and Damian Pavlyshyn.
+
+Past and present members of the Hodgkin Lab who contributed to developing, evaluating and modifying the theory and algorithms on which the code is based:
+
+Amanda Gett, Elissa Deenick, Brendan See, Hilary Todd, Carel van Gend, Ming Chang, Edwin Hawkins, Marian Turner, Mark Dowling, John Markham, Mirja Hommel, Julia Marchingo, Jie Zhou, and Su Heinzel
