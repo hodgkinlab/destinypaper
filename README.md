@@ -51,4 +51,4 @@ Matlab code was written by Cameron Wellard, Andrey Kan, and Damian Pavlyshyn.
 
 Past and present members of the Hodgkin Lab who contributed to developing, evaluating and modifying the theory and algorithms on which the code is based:
 
-Amanda Gett, Elissa Deenick, Brendan See, Hilary Todd, Carel van Gend, Ming Chang, Edwin Hawkins, Marian Turner, Mark Dowling, John Markham, Mirja Hommel, Julia Marchingo, Jie Zhou, and Su Heinzel
+Amanda Gett, Elissa Deenick, Brendan See, Hilary Todd, Carel van Gend, Ming Chang, Edwin Hawkins, Marian Turner, Mark Dowling, John Markham, Mirja Hommel, Julia Marchingo, Jie Zhou, and Su Heinzel.
